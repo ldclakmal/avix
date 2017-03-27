@@ -85,9 +85,10 @@
             </div>
             <div class="tint">
                 <div class="welcome text-center">
-                    <h1><span>WELCOME TO</span><span style="color: #fdb515; font-size: 80px; font-weight: bold; font-family: 'Open Sans'">AVIX Productions</span></h1>
+                    <h1><span>WELCOME TO</span></h1>
+                    <h1><span style="color: #fdb515; font-size: 60px; font-weight: bold; font-family: 'Open Sans'">AVIX Productions</span></h1>
                     <h3>- We Delight You -</h3>
-                    <p><a href="https://www.facebook.com/avixproductions/" class="btn btn-primary btn-lg">We will be back soon!</a></p>
+                    <p><a href="https://www.facebook.com/avixproductions/" class="btn btn-primary btn-lg">Stay Tuned!</a></p>
                 </div>
             </div>
         </div>
