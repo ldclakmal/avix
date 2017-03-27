@@ -105,7 +105,7 @@
                     <div class="col-sm-12">
                         <p>
                             <span><a href="https://www.facebook.com/avixproductions/"><i class="fa fa-facebook fa-lg"></i> AVIX Productions</a></span>
-                            <span><a href="https://www.linkedin.com/company-beta/6592781/"><i class="fa fa-linkedin fa-lg"></i>  AVIX Productions</a></span>
+                            <span><a href="https://www.linkedin.com/company/avixproductions"><i class="fa fa-linkedin fa-lg"></i>  AVIX Productions</a></span>
                             <span><i class="fa fa-phone fa-lg"></i> +94 76 763 2424</span>
                             <span><i class="fa fa-phone fa-lg"></i> +94 71 763 2424</span>
                             <span><i class="fa fa-envelope fa-lg"></i><a href="mailto:info@avix.lk"> info@avix.lk</a></span>
