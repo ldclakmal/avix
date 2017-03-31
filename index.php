@@ -42,7 +42,7 @@
 
         <div id="pre-loader" class="preloader-div">
             <h4 class="preloader-h4">
-                <span><img src="images/logo-blue.png" height="250" id="logo"></span>
+                <span><img src="images/logo.png" height="250" id="logo"></span>
             </h4>
         </div>
 
@@ -64,7 +64,7 @@
                         <span class="icon-bar"></span>
                     </button>
                     <a href="index.php">
-                        <img src="images/logo.png" style="height: 60px; padding-top: 10px;" alt="AVIX -We Delight You-" class="img-responsive" />
+                        <img src="images/logo.png" style="height: 60px; padding-top: 10px;" alt="AVIX - We Delight You-" class="img-responsive" />
                     </a>
                 </div>
             </div>
@@ -86,8 +86,7 @@
             <div class="tint">
                 <div class="welcome text-center">
                     <h1><span>WELCOME TO</span></h1>
-                    <h1><span style="color: #fdb515; font-size: 60px; font-weight: bold; font-family: 'Open Sans'">AVIX Productions</span></h1>
-                    <h3>- We Delight You -</h3>
+                    <img src="images/logo-blue.png" style="height: 150px;"/>
                     <p><a href="https://www.facebook.com/avixproductions/" class="btn btn-primary btn-lg">Stay Tuned!</a></p>
                 </div>
             </div>
