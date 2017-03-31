@@ -15,7 +15,7 @@ $(document).ready(function () {
 
 $(window).load(function () {
     resize();
-    $("#pre-loader").fadeOut(500);
+    $("#pre-loader").fadeOut(2000);
     animate();
 
     function animate() {

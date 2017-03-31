@@ -42,7 +42,7 @@
 
         <div id="pre-loader" class="preloader-div">
             <h4 class="preloader-h4">
-                <span><img src="images/logo.png" height="250" id="logo"></span>
+                <span><img src="images/logo-blue.png" height="250" id="logo"></span>
             </h4>
         </div>
 
