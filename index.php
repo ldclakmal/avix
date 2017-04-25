@@ -174,7 +174,6 @@
 
         <!-- Bootstrap Modal -->
         <script src="js/modal.js"></script>
-        <script src="js/popup.js"></script>
 
         <!-- Navigations -->
         <script src="js/navigations.js"></script>
