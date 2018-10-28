@@ -52,12 +52,16 @@
             </div>
             <div class="tint">
                 <div class="welcome">
-                    <img src="images/logo-teal.png" style="height: 150px;"/>
-                    <div class="row" style="padding-left: 3%;">
+                    <div class="col-xs-12 col-sm-12 col-md-12 hidden-lg">
+                        <p style="height: 100px;"></p>
+                    </div>
+                    <div class="col-lg-12 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12">
+                        <img src="images/logo-teal.png" class="col-lg-3 col-md-6 col-sm-6 col-xs-12"/>
+                    </div>
+                    <div class="col-lg-11 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12" style="left: 5%;">
                         <a href="https://www.facebook.com/avixproductions/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-lg"></i></a>
                         <a href="https://www.instagram.com/avixproductions/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-instagram fa-lg"></i></a>
                         <a href="mailto:info@avix.lk" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-lg"></i></a>
-                        <a href="tel:+94767632424" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-phone fa-lg"></i></a>
                     </div>
                 </div>
             </div>
