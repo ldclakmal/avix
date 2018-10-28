@@ -18,16 +18,6 @@
         <!-- Superslides CSS -->
         <link href="css/superslides.css" rel="stylesheet">
 
-        <!-- Owl Carousel stylesheets -->
-        <link href="css/owl.carousel.css" rel="stylesheet">
-        <link href="css/owl.theme.css" rel="stylesheet">
-
-        <!-- Fancybox -->
-        <link href="css/jquery.fancybox.css" rel="stylesheet">
-
-        <!-- Animate - necessary for Wow.js -->
-        <link href="css/animate.css" rel="stylesheet">
-
         <!-- Custom CSS -->
         <link href="css/custom.css" rel="stylesheet">
 
@@ -99,9 +89,6 @@
 
         <div class="modal fade" id="viewModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"></div>
 
-        <!-- Modernizr Plugin -->
-        <script src="js/modernizr.custom.97074.js"></script>
-
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="js/jquery-1.10.2.min.js"></script>
 
@@ -116,34 +103,7 @@
         <script src="js/jquery.animate-enhanced.min.js"></script>
         <script src="js/jquery.superslides.js"></script>
 
-        <!-- Owl Carousel Plugin -->
-        <script src="js/owl.carousel.js"></script>
-
-        <!-- Scrolly Plugin -->
-        <script src="js/jquery.scrolly.js"></script>
-
-        <!-- MixItUp Plugin -->
-        <script src="js/jquery.mixitup.min.js"></script>
-
-        <!-- Fancybox Plugin -->
-        <script src="js/wow.min.js"></script>
-        <script>
-            new WOW().init();
-        </script>
-
-        <!-- WOW Plugin -->
-        <script src="js/jquery.fancybox.js"></script>
-
-        <!-- Contact form processing plugin -->
-        <script src="js/magic.js"></script>
-
         <!-- jQuery Settings -->
         <script src="js/settings.js"></script>
-
-        <!-- Bootstrap Modal -->
-        <script src="js/modal.js"></script>
-
-        <!-- Navigations -->
-        <script src="js/navigations.js"></script>
     </body>
 </html>
