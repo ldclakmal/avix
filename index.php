@@ -63,7 +63,12 @@
             <div class="tint">
                 <div class="welcome">
                     <img src="images/logo-teal.png" style="height: 150px;"/>
-                    <p style="padding-left: 5%;"><a href="https://www.facebook.com/avixproductions/" class="btn btn-default">STAY TUNED!</a></p>
+                    <div class="row" style="padding-left: 3%;">
+                        <a href="https://www.facebook.com/avixproductions/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-lg"></i></a>
+                        <a href="https://www.instagram.com/avixproductions/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-instagram fa-lg"></i></a>
+                        <a href="mailto:info@avix.lk" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-lg"></i></a>
+                        <a href="tel:+94767632424" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-phone fa-lg"></i></a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -81,9 +86,9 @@
                         <p>
                             <span><a href="https://www.facebook.com/avixproductions/" target="_blank"><i class="fa fa-facebook fa-lg"></i> AVIX Productions</a></span>
                             <span><a href="https://www.instagram.com/avixproductions/" target="_blank"><i class="fa fa-instagram fa-lg"></i>  AVIX Productions</a></span>
-                            <span><i class="fa fa-phone fa-lg"></i> +94 76 763 2424</span>
+                            <span><i class="fa fa-phone fa-lg"></i><a href="tel:+94767632424"> +94 76 763 2424</a></span>
                             <span><i class="fa fa-envelope fa-lg"></i><a href="mailto:info@avix.lk"> info@avix.lk</a></span>
-                            <span><i class="fa fa-map-marker fa-lg"></i> Battaramulla, Colombo, Sri Lanka. 10120</span>
+                            <span><i class="fa fa-map-marker fa-lg"></i><a href="https://goo.gl/maps/ukPvzpBUR2N2" target="_blank"> Battaramulla, Colombo, Sri Lanka. 10120</a></span>
                         </p>
                     </div>
                 </div>
