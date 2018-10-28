@@ -6,7 +6,7 @@
         <meta name="description" content="The Official Web Site of AVIX | Photography">
         <meta name="keywords" content="avix, avix.lk" />
         <title>AVIX&reg; | Official</title>
-        <link rel="shortcut icon" href="images/favicon.png">
+        <link rel="shortcut icon" href="images/favicon.png?v=2">
 
         <!-- Bootstrap -->
         <link href="css/bootstrap-light.min.css" rel="stylesheet">
