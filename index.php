@@ -59,7 +59,7 @@
                         <img src="images/logo-teal.png" class="col-lg-3 col-md-6 col-sm-6 col-xs-12"/>
                     </div>
                     <div class="col-lg-11 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12" style="left: 5%;">
-                        <a href="https://www.facebook.com/avixproductions/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-lg"></i></a>
+                        <a href="https://www.facebook.com/avixweddings/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-lg"></i></a>
                         <a href="https://www.instagram.com/avixproductions/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-instagram fa-lg"></i></a>
                         <a href="mailto:info@avix.lk" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-lg"></i></a>
                     </div>
@@ -78,7 +78,7 @@
                 <div class="row text-center">
                     <div class="col-sm-12">
                         <p>
-                            <span><a href="https://www.facebook.com/avixproductions/" target="_blank"><i class="fa fa-facebook fa-lg"></i> AVIX Productions</a></span>
+                            <span><a href="https://www.facebook.com/avixweddings/" target="_blank"><i class="fa fa-facebook fa-lg"></i> AVIX Productions</a></span>
                             <span><a href="https://www.instagram.com/avixproductions/" target="_blank"><i class="fa fa-instagram fa-lg"></i>  AVIX Productions</a></span>
                             <span><i class="fa fa-phone fa-lg"></i><a href="tel:+94767632424"> +94 76 763 2424</a></span>
                             <span><i class="fa fa-envelope fa-lg"></i><a href="mailto:info@avix.lk"> info@avix.lk</a></span>
