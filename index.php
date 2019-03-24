@@ -4,8 +4,8 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
         <meta name="description" content="The Official Web Site of AVIX.LK | Weddings | Photography | Videography">
-        <meta name="keywords" content="avix, avix.lk" />
-        <title>AVIX&reg; | Official</title>
+        <meta name="keywords" content="avix, avix.lk, avix-weddings, weddings, photography, videography" />
+        <title>AVIX&reg; Weddings</title>
         <link rel="shortcut icon" href="images/favicon.png?v=2">
         <link rel="stylesheet" href="css/bootstrap-light.min.css" crossorigin="anonymous">
         <link rel="stylesheet" href="css/style-light.css" crossorigin="anonymous">
@@ -51,11 +51,11 @@
                 <div class="row text-center">
                     <div class="col-sm-12">
                         <p>
-                            <span><a href="https://www.facebook.com/avixweddings/" target="_blank"><i class="fab fa-facebook fa-lg"></i> AVIX Productions</a></span>
+                            <span><a href="https://www.facebook.com/avixweddings/" target="_blank"><i class="fab fa-facebook fa-lg"></i> AVIX Weddings</a></span>
                             <span><a href="https://www.instagram.com/avixproductions/" target="_blank"><i class="fab fa-instagram fa-lg"></i>  AVIX Productions</a></span>
                             <span><i class="fa fa-phone fa-lg"></i><a href="tel:+94767632424"> +94 76 763 2424</a></span>
                             <span><i class="fa fa-envelope fa-lg"></i><a href="mailto:info@avix.lk"> info@avix.lk</a></span>
-                            <span><i class="fa fa-map-marker fa-lg"></i><a href="https://goo.gl/maps/ukPvzpBUR2N2" target="_blank"> Battaramulla, Colombo, Sri Lanka. 10120</a></span>
+                            <span><i class="fa fa-map-marker fa-lg"></i><a href="https://goo.gl/maps/CS2JGQUCvxn" target="_blank"> Battaramulla, Colombo, Sri Lanka. 10120</a></span>
                         </p>
                     </div>
                 </div>
