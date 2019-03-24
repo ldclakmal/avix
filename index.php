@@ -46,8 +46,8 @@
         <div id="banner">
             <div class="slider">
                 <div class="slides-container">
-                    <img src="images/slide/bg-slide.jpg" alt="" />
-                    <img src="images/slide/bg-slide.jpg" alt="" />
+                    <img src="images/cover.jpg" alt="" />
+                    <img src="images/cover.jpg" alt="" />
                 </div>
             </div>
             <div class="tint">
@@ -56,7 +56,7 @@
                         <p style="height: 100px;"></p>
                     </div>
                     <div class="col-lg-12 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12">
-                        <img src="images/logo-teal.png" class="col-lg-3 col-md-6 col-sm-6 col-xs-12"/>
+                        <img src="images/logo.png" class="col-lg-3 col-md-6 col-sm-6 col-xs-12"/>
                     </div>
                     <div class="col-lg-11 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12" style="left: 5%;">
                         <a href="https://www.facebook.com/avixweddings/" target="_blank" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-lg"></i></a>
